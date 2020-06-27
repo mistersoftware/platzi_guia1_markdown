@@ -1,4 +1,5 @@
-# platzi_markdown
+# Guía de uso de Markdown, herramienta de conversión de texto a HTML
+
 > **_Te doy la bienvenida a esta guía elaborada con el objetivo de servir de referencia para publicaciones en :rocket: Platzi :metal: . Si la plataforma es nueva para ti, te recomiendo visitar primero la siguiente entrada del blog: ["Lo que debes saber si eres nuevo en Platzi"](https://platzi.com/blog/lo-que-debes-saber-si-eres-nuevo-en-platzi/)_**. Si ya la has leído, comencemos:
 
 ## ¿Qué es Markdown?
